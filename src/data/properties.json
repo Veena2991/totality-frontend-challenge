@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Cozy Cottage",
+      "description": "A small, cozy cottage with a beautiful garden.",
+      "price": "₹ 4457 - 20 K",
+      "image": "https://ruemag.com/wp-content/uploads/2022/08/08-16-22_Home-Tour_Kelly-Martin-Interiors_6.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Modern Apartment",
+      "description": "A modern apartment located in the city center.",
+      "price": "₹ 77.49 L - 1.19 Cr",
+      "image": "https://i.pinimg.com/474x/5c/95/34/5c9534441e958e843e5594a91f656c79.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Spacious Villa",
+      "description": "A spacious villa with a private pool and garden.",
+      "price": "₹ 1 Cr - 5 Cr",
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-cc0c868051977c63d4cb9204ffc36c6d-lq"
+    }
+  ]
+  

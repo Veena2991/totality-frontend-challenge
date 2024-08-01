@@ -1,0 +1,47 @@
+.property {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    max-width: 300px;
+    margin: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .property-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .property-details {
+    padding: 15px;
+  }
+  
+  .property-title {
+    font-size: 1.5em;
+    margin: 0 0 10px;
+  }
+  
+  .property-description {
+    font-size: 1em;
+    margin: 0 0 10px;
+  }
+  
+  .property-price {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #4CAF50;
+  }
+  
+  .property-details button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .property-details button:hover {
+    background-color: #45a049;
+  }
+  

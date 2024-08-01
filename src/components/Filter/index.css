@@ -1,0 +1,21 @@
+.filter {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .filter > div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .filter label {
+    font-weight: bold;
+  }
+  
+  .filter select,
+  .filter input[type="checkbox"] {
+    margin-top: 5px;
+  }
+  

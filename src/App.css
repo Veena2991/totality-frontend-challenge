@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.property-listing {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  max-width: 300px;
+}
+
+.property-listing img {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+}
+
+.property-listing h3 {
+  margin: 10px 0;
+}
+
+.property-listing p {
+  margin: 5px 0;
+}
